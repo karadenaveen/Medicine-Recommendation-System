@@ -36,3 +36,7 @@ Integrate symptom-to-drug mapping using external APIs (like DrugBank or MedlineP
 Fine-tune LLMs for improved cancer taxonomy classification
 
 Add multilingual complaint tagging support
+
+#output
+
+![Image](https://github.com/user-attachments/assets/e80d7664-6741-4992-8b75-117a20a42628)
